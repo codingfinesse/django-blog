@@ -3,7 +3,6 @@ aiohttp==3.8.3
 aiohttp-cors==0.7.0
 aiosignal==1.2.0
 apipkg==2.1.0
-apparmor==1.0.1
 async-timeout==4.0.2
 attrs==22.1.0
 autoenv==1.0.0
